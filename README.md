@@ -9,3 +9,5 @@ Successfully use Agile development cycle, weekly meetings, and Trello for work a
 Follow MVC design pattern to create seperation of responsibilities for each element of the project.
 Created a robust parser which can handle a wide variety of RSS file structures and deliver functional objects for the team to utilize.
 
+Parser code can be found in src/model/PodcastPlayerModel.java
+
