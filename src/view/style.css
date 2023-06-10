@@ -1,0 +1,33 @@
+/* This is the style sheet for the view 
+   author: Sara Grimes
+*/
+
+
+.scroll-pane {
+	-fx-background: transparent;
+    -fx-background-color: transparent;
+}
+
+.border {
+	-fx-border-width: 1; 
+	-fx-border-color: grey; 
+	-fx-border-radius: 10; 
+	-fx-padding: 5px;
+
+}
+
+.scroll-bar: vertical {
+	-fx-background-color: transparent;
+
+}
+.scroll-bar: vertical .thumb {
+	-fx-background-color: grey;
+
+}
+.selected {
+	-fx-text-fill: grey;
+}
+.deselected {
+	-fx-text-fill: white;
+}
+
